@@ -1,0 +1,35 @@
+Input text:Aditya Suresh Patil 
+Data Scientist
+Binated Inc
+Texas, USA
+
+Input file length: 58
+Compressed file length: 251
+
+Huffman codes:
+t: 000
+ : 001
+a: 010
+s: 0110
+D: 01110
+A: 01111
+
+: 1000
+e: 1001
+,: 101000
+x: 101001
+c: 10101
+d: 10110
+T: 101110
+y: 101111
+I: 110000
+r: 110001
+h: 110010
+U: 110011
+l: 110100
+P: 110101
+B: 110110
+u: 110111
+i: 1110
+n: 11110
+S: 11111
